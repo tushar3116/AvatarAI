@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+python-multipart
+websockets
+langchain>=0.3
+langchain-openai>=0.3
+langchain-community>=0.3
+langchain-chroma
+chromadb
+openai>=1.50
+elevenlabs
+pypdf
+python-dotenv
+pydantic-settings
+numpy>=2.0
